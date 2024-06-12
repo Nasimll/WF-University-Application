@@ -1,0 +1,12 @@
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\bin\Debug\UniversityLIst.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\bin\Debug\UniversityLIst.exe
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\bin\Debug\UniversityLIst.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.Form2.resources
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.Form3.resources
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.exe
+C:\Users\Nasim Mulladzhanov\Desktop\UniversityLIst\UniversityLIst\obj\Debug\UniversityLIst.pdb
